@@ -1,0 +1,1 @@
+# rootless-user-ansible-role
